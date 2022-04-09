@@ -10,3 +10,7 @@ The analysis was performed by creating a pivot table with the necessary informat
 	Some limitations to this dataset may be possible inaccuracy in collecting data, and definition of successful and failed campaign meaning.
 ## Other Useful Information
 	Other tables we could create would be comparing this campaign to other types of campaigns, arts or political for instance to get a better visualization on just how much this type of thing costs. 
+![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96252330/162578746-b0e379ef-9ade-4a70-a1cb-cb322d502369.PNG)
+![Parent Category Outcomes](https://user-images.githubusercontent.com/96252330/162578754-b8cbeb39-f893-4f45-a3b1-511ac99f9e9e.PNG)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96252330/162578757-c643ff63-cc2b-439b-8147-8cf2cb8cd7a5.PNG)
+![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/96252330/162578759-c5d6b7c4-950c-4d9f-86ee-f7c5648a12f5.PNG)
