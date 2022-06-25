@@ -12,5 +12,5 @@ The analysis was performed by creating a pivot table with the necessary informat
 	Other tables we could create would be comparing this campaign to other types of campaigns, arts or political for instance to get a better visualization on just how much this type of thing costs. 
 ![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96252330/162578746-b0e379ef-9ade-4a70-a1cb-cb322d502369.PNG)
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/96252330/162578754-b8cbeb39-f893-4f45-a3b1-511ac99f9e9e.PNG)
-
+![Outcomes Based on Goals](https://github.com/reese-abbey/Kickstarter-Analysis/blob/main/Outcomes%20Based%20on%20Goal.PNG)
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/96252330/162578759-c5d6b7c4-950c-4d9f-86ee-f7c5648a12f5.PNG)
